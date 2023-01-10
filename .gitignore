@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+localhost+2-key.pem
+.gitignore
+localhost+2.pem
